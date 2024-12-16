@@ -2,8 +2,12 @@ import subprocess
 import json
 import time
 from flask import Flask, jsonify
+from flask_cors import CORS  # Importar el paquete flask-cors
 
 app = Flask(__name__)
+
+# Habilitar CORS en la aplicación Flask
+CORS(app)  # Esto permite solicitudes desde cualquier origen
 
 def iniciar_ngrok():
     # Iniciar ngrok en un proceso independiente

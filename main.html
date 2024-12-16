@@ -28,20 +28,26 @@
       </div>
 
     <script>
-async function activarMacro() {
-    try {
-        const url = await fetch('ngrok_url.txt').then(response => response.text());
-        const response = await fetch(url + '/macro', { method: 'POST' });
+        async function activarMacro() {
+            try {
+                console.log("Leyendo archivo ngrok_url.txt...");
+                const ngrokUrl = await fetch('./ngrok_url.txt').then(response => response.text());
+                console.log("URL de ngrok obtenida:", ngrokUrl);
         
-        if (response.ok) {
-            alert("La macro se ejecutó correctamente.");
-        } else {
-            alert("Hubo un error al ejecutar la macro.");
+                // Usar la variable ngrokUrl para construir la URL completa para el fetch
+                const response = await fetch(ngrokUrl + '/macro', { method: 'POST' });
+        
+                if (response.ok) {
+                    alert("La macro se ejecutó correctamente.");
+                } else {
+                    alert("Hubo un error al ejecutar la macro.");
+                }
+            } catch (error) {
+                console.error("Error al obtener la URL o ejecutar la macro:", error);
+                alert("Error al obtener la URL de ngrok o ejecutar la macro.");
+            }
         }
-    } catch (error) {
-        alert("Error al obtener la URL de ngrok o ejecutar la macro.");
-    }
-}
+        
     </script>
 </body>
 </html>

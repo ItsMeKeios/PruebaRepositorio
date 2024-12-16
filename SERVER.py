@@ -1,7 +1,11 @@
 from flask import Flask, jsonify
 import subprocess
+from flask_cors import CORS  # Importa el paquete flask-cors
 
 app = Flask(__name__)
+
+# Habilitar CORS en la aplicación Flask
+CORS(app)  # Esto permite solicitudes desde cualquier origen
 
 def obtener_ngrok_url():
     try:
@@ -30,4 +34,3 @@ def ejecutar_macro():
 
 if __name__ == '__main__':
     app.run(port=7899, host='0.0.0.0')
-
