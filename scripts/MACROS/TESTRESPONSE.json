@@ -1,0 +1,137 @@
+[
+    {
+        "name": "h",
+        "event": "keydown",
+        "elapsed_time": 4.269981861114502
+    },
+    {
+        "name": "h",
+        "event": "keyup",
+        "elapsed_time": 0.07374000549316406
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.43023228645324707
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.09400796890258789
+    },
+    {
+        "name": "l",
+        "event": "keydown",
+        "elapsed_time": 0.35988616943359375
+    },
+    {
+        "name": "l",
+        "event": "keyup",
+        "elapsed_time": 0.09413814544677734
+    },
+    {
+        "name": "a",
+        "event": "keydown",
+        "elapsed_time": 0.3818693161010742
+    },
+    {
+        "name": "a",
+        "event": "keyup",
+        "elapsed_time": 0.07397580146789551
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 1.0298736095428467
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.10452628135681152
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.21544718742370605
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.09424710273742676
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 0.22710585594177246
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.0669107437133789
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.5054721832275391
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.08377695083618164
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.9587194919586182
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.30202412605285645
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.15567803382873535
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.009973764419555664
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 2.230325937271118
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.10324525833129883
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.2086474895477295
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.15212011337280273
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 0.20798802375793457
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.09416341781616211
+    },
+    {
+        "name": "esc",
+        "event": "keydown",
+        "elapsed_time": 2.8877480030059814
+    }
+]

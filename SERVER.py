@@ -3,6 +3,13 @@ import subprocess
 
 app = Flask(__name__)
 
+def obtener_ngrok_url():
+    try:
+        with open('ngrok_url.txt', 'r') as file:
+            return file.read().strip()
+    except FileNotFoundError:
+        return None
+
 @app.route('/macro', methods=['POST'])
 def ejecutar_macro():
     try:

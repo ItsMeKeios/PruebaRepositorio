@@ -1,0 +1,3727 @@
+[
+    {
+        "name": "windows izquierda",
+        "event": "keydown",
+        "elapsed_time": 5.928114175796509
+    },
+    {
+        "name": "windows izquierda",
+        "event": "keyup",
+        "elapsed_time": 0.052146196365356445
+    },
+    {
+        "name": "m",
+        "event": "keydown",
+        "elapsed_time": 0.9137930870056152
+    },
+    {
+        "name": "m",
+        "event": "keyup",
+        "elapsed_time": 0.0838773250579834
+    },
+    {
+        "name": "i",
+        "event": "keydown",
+        "elapsed_time": 0.15988683700561523
+    },
+    {
+        "name": "i",
+        "event": "keyup",
+        "elapsed_time": 0.06534886360168457
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.17065072059631348
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.06591153144836426
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.216365098953247
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.05783271789550781
+    },
+    {
+        "name": "windows izquierda",
+        "event": "keydown",
+        "elapsed_time": 11.16793155670166
+    },
+    {
+        "name": "windows izquierda",
+        "event": "keyup",
+        "elapsed_time": 0.08803558349609375
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.9619193077087402
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.16997170448303223
+    },
+    {
+        "name": "d",
+        "event": "keydown",
+        "elapsed_time": 0.14473772048950195
+    },
+    {
+        "name": "d",
+        "event": "keyup",
+        "elapsed_time": 0.001967191696166992
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.103999376296997
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.04599785804748535
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 4.941653251647949
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.07573509216308594
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.33853626251220703
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07996559143066406
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.20076203346252441
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.0844416618347168
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.2588040828704834
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.10456347465515137
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.3255937099456787
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.0758965015411377
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.383655309677124
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.06338357925415039
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.46080446243286133
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.0674736499786377
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.4241902828216553
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.07559728622436523
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 9.680498600006104
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.33141565322875977
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.23028326034545898
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.0010192394256591797
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.4795496463775635
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.09341573715209961
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.32964301109313965
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.0781400203704834
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.2243037223815918
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.07576107978820801
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.2018437385559082
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07477259635925293
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.3732297420501709
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.06675410270690918
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 3.7251925468444824
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.11991477012634277
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.5185201168060303
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.12403988838195801
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.720422029495239
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.3875539302825928
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1879260540008545
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.011974096298217773
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 2.0341451168060303
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.09390068054199219
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.3499946594238281
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.0883629322052002
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.2593412399291992
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.0945897102355957
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.21210956573486328
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07511544227600098
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.43042707443237305
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08623456954956055
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.9001865386962891
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.15006732940673828
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 0.8039968013763428
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.2059166431427002
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.0537869930267334
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.0760796070098877
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.103625774383545
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.31537890434265137
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.18457770347595215
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.001961946487426758
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 4.8682146072387695
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.19406652450561523
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.02982807159423828
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.001001119613647461
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0014884471893310547
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.0018761157989501953
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.4351541996002197
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.13458466529846191
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.2915470600128174
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07800865173339844
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.2066807746887207
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10368204116821289
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.2178940773010254
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07608389854431152
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.21575665473937988
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.001270294189453125
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.06264758110046387
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.0009677410125732422
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.40323829650878906
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.08186554908752441
+    },
+    {
+        "name": "4",
+        "event": "keydown",
+        "elapsed_time": 0.7219705581665039
+    },
+    {
+        "name": "4",
+        "event": "keyup",
+        "elapsed_time": 0.038205862045288086
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 3.652228355407715
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.15975284576416016
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.095656156539917
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.2629377841949463
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.2739274501800537
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.0009975433349609375
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.3173019886016846
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.14993810653686523
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.21724557876586914
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07592105865478516
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.17078065872192383
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.1139674186706543
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.06782364845275879
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07600116729736328
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.20362138748168945
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.11447858810424805
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.05818033218383789
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.10399937629699707
+    },
+    {
+        "name": "5",
+        "event": "keydown",
+        "elapsed_time": 0.7230565547943115
+    },
+    {
+        "name": "5",
+        "event": "keyup",
+        "elapsed_time": 0.058846235275268555
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.9639158248901367
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.16739511489868164
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.010156631469726562
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.0039784908294677734
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.928229331970215
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.2818284034729004
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.21620512008666992
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.029944181442260742
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.141568899154663
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.10010385513305664
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.22034931182861328
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.09403395652770996
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.19549560546875
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.12219452857971191
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.14644885063171387
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.09586620330810547
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.10773205757141113
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.11446714401245117
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.04579925537109375
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.10766220092773438
+    },
+    {
+        "name": "6",
+        "event": "keydown",
+        "elapsed_time": 0.7326464653015137
+    },
+    {
+        "name": "6",
+        "event": "keyup",
+        "elapsed_time": 0.0656132698059082
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.218189001083374
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.045336246490478516
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.383831739425659
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.28414130210876465
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.16055774688720703
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.040154457092285156
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.3635344505310059
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1502244472503662
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.20745301246643066
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07630777359008789
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.17030620574951172
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.1037743091583252
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.11580681800842285
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07659912109375
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.10984563827514648
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.12199711799621582
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.1544787883758545
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.1150968074798584
+    },
+    {
+        "name": "7",
+        "event": "keydown",
+        "elapsed_time": 1.372443675994873
+    },
+    {
+        "name": "7",
+        "event": "keyup",
+        "elapsed_time": 0.06607675552368164
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.95371413230896
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.05628657341003418
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.261609077453613
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.20965266227722168
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1601111888885498
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.04617643356323242
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.2526037693023682
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1497790813446045
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.1316969394683838
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08598709106445312
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.1425800323486328
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.11079168319702148
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.0481109619140625
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07042098045349121
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.10003042221069336
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.10451769828796387
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.04147005081176758
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.08781242370605469
+    },
+    {
+        "name": "8",
+        "event": "keydown",
+        "elapsed_time": 0.7100684642791748
+    },
+    {
+        "name": "8",
+        "event": "keyup",
+        "elapsed_time": 0.07599067687988281
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.256484031677246
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.13540053367614746
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.4244654178619385
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.28420543670654297
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1743314266204834
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0070879459381103516
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.1082336902618408
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.12414050102233887
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.1500227451324463
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08039188385009766
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.14795517921447754
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.11352705955505371
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.06798672676086426
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.0845332145690918
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.06320977210998535
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.1402733325958252
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.03394579887390137
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.10673046112060547
+    },
+    {
+        "name": "9",
+        "event": "keydown",
+        "elapsed_time": 1.5593585968017578
+    },
+    {
+        "name": "9",
+        "event": "keyup",
+        "elapsed_time": 0.06633901596069336
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.0493395328521729
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.15772485733032227
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.02663874626159668
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.0019941329956054688
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.271911382675171
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.15797138214111328
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.008291482925415039
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.28597354888916016
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.2240309715270996
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0714101791381836
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8366808891296387
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.12139678001403809
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.34845566749572754
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.1137700080871582
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.007676362991333008
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.08023381233215332
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.09369277954101562
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.09235596656799316
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.0500943660736084
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.14785408973693848
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 2.5163347721099854
+    },
+    {
+        "name": "0",
+        "event": "keydown",
+        "elapsed_time": 0.049840688705444336
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.0402224063873291
+    },
+    {
+        "name": "0",
+        "event": "keyup",
+        "elapsed_time": 0.02954697608947754
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.4883158206939697
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.12988066673278809
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.420348882675171
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.2555251121520996
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.13661670684814453
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.017957210540771484
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.0353703498840332
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.12246966361999512
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.11730146408081055
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08064937591552734
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.14209413528442383
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10417556762695312
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.019740819931030273
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06757330894470215
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.06422734260559082
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08171367645263672
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.040019989013671875
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.08617067337036133
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.7862241268157959
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.07361292839050293
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.10425829887390137
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.06580948829650879
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 2.48008394241333
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.09434866905212402
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 8.201895236968994
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.2954080104827881
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.16875410079956055
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.056015729904174805
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.2832551002502441
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.13242316246032715
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.10411643981933594
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08430314064025879
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.15167903900146484
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.11428546905517578
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.095947265625
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.0854952335357666
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.0798947811126709
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.09657001495361328
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.08725452423095703
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.08445024490356445
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.3216383457183838
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.09458184242248535
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.09330058097839355
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.06659698486328125
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.1855871677398682
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.09659004211425781
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.309903860092163
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.2799224853515625
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1456007957458496
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.02389240264892578
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.1577839851379395
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1143195629119873
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.15263891220092773
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07541036605834961
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.1301283836364746
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10368776321411133
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.08600640296936035
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07013559341430664
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.08027076721191406
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08809399604797363
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.06975102424621582
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.08429265022277832
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.6400139331817627
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.1036841869354248
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 0.07631802558898926
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.07195687294006348
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.0554752349853516
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.048332929611206055
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 8.06637167930603
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.35581231117248535
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1640322208404541
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.03533220291137695
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8826284408569336
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.10407853126525879
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.1419224739074707
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07598733901977539
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.1313488483428955
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10198974609375
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.10825204849243164
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.09519100189208984
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.03722882270812988
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.10939145088195801
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.1288282871246338
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.11718869209289551
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.17593169212341309
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.10246086120605469
+    },
+    {
+        "name": "4",
+        "event": "keydown",
+        "elapsed_time": 0.13831520080566406
+    },
+    {
+        "name": "4",
+        "event": "keyup",
+        "elapsed_time": 0.06588077545166016
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.7360043525695801
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.08798050880432129
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.305827617645264
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.23753738403320312
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.21264910697937012
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.012001991271972656
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.1855864524841309
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.14251446723937988
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.11367154121398926
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08822369575500488
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.1559898853302002
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10396361351013184
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.019915103912353516
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.09820914268493652
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.0902247428894043
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.0876924991607666
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.02786111831665039
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.09007549285888672
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.5525217056274414
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.14754366874694824
+    },
+    {
+        "name": "5",
+        "event": "keydown",
+        "elapsed_time": 0.18233942985534668
+    },
+    {
+        "name": "5",
+        "event": "keyup",
+        "elapsed_time": 0.0555572509765625
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.9062366485595703
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.06732511520385742
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.5066142082214355
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.23376250267028809
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1401073932647705
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.031688690185546875
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8819808959960938
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1503298282623291
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.12422943115234375
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08764290809631348
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.14791059494018555
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.12162303924560547
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.03880429267883301
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06792616844177246
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.09410905838012695
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08314204216003418
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.03188300132751465
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.0842747688293457
+    },
+    {
+        "name": "6",
+        "event": "keydown",
+        "elapsed_time": 1.6586549282073975
+    },
+    {
+        "name": "6",
+        "event": "keyup",
+        "elapsed_time": 0.0655982494354248
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 2.2559759616851807
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.046091556549072266
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.568230628967285
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.16761040687561035
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.16023516654968262
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0760498046875
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8263950347900391
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.13095808029174805
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.14461994171142578
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.054106950759887695
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.23552465438842773
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.13173651695251465
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.011001348495483398
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.09505796432495117
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.08247876167297363
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.0956728458404541
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.022773027420043945
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.12176299095153809
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.5959224700927734
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.12193703651428223
+    },
+    {
+        "name": "7",
+        "event": "keydown",
+        "elapsed_time": 0.47809648513793945
+    },
+    {
+        "name": "7",
+        "event": "keyup",
+        "elapsed_time": 0.11546969413757324
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.7383859157562256
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.09208536148071289
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.30368709564209
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.16429996490478516
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.20598387718200684
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.027652263641357422
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.025846242904663
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.13280797004699707
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.10346364974975586
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.0870518684387207
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.13918066024780273
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.14810895919799805
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.017943382263183594
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07413601875305176
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.07147932052612305
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.09589481353759766
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.04052138328552246
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.0839548110961914
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.37002062797546387
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.11193680763244629
+    },
+    {
+        "name": "8",
+        "event": "keydown",
+        "elapsed_time": 0.1357877254486084
+    },
+    {
+        "name": "8",
+        "event": "keyup",
+        "elapsed_time": 0.06826162338256836
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.0193524360656738
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.08418655395507812
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.390853404998779
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.22569036483764648
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1957404613494873
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.06832218170166016
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.6619546413421631
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1612105369567871
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.09676361083984375
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.09221100807189941
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.12143564224243164
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.08801412582397461
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.02017688751220703
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06609511375427246
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.08206701278686523
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.0840463638305664
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.038292646408081055
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.07771539688110352
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.27429819107055664
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.12390828132629395
+    },
+    {
+        "name": "9",
+        "event": "keydown",
+        "elapsed_time": 0.23180842399597168
+    },
+    {
+        "name": "9",
+        "event": "keyup",
+        "elapsed_time": 0.14136815071105957
+    },
+    {
+        "name": "space",
+        "event": "keydown",
+        "elapsed_time": 0.12287306785583496
+    },
+    {
+        "name": "space",
+        "event": "keyup",
+        "elapsed_time": 0.16954827308654785
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.8702912330627441
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.0737617015838623
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.98394775390625
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.17827725410461426
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.175429105758667
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.001007080078125
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.9015107154846191
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.11405277252197266
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.12227678298950195
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.0755612850189209
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.12130236625671387
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.09664583206176758
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.027777910232543945
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06790018081665039
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.06620526313781738
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.07149052619934082
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.03218889236450195
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.06639695167541504
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.7278115749359131
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.08429288864135742
+    },
+    {
+        "name": "0",
+        "event": "keydown",
+        "elapsed_time": 0.22365212440490723
+    },
+    {
+        "name": "0",
+        "event": "keyup",
+        "elapsed_time": 0.06616973876953125
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.7537796497344971
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.06665802001953125
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.739600896835327
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.11953377723693848
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.17644262313842773
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.01994490623474121
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.750450611114502
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1233367919921875
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.07818603515625
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07599139213562012
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.10979580879211426
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10087132453918457
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.013509273529052734
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06753110885620117
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.030438899993896484
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.09380364418029785
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.02045130729675293
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.07341241836547852
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.6083681583404541
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.0836937427520752
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.1538400650024414
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.03269648551940918
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.7217628955841064
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.019680500030517578
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.75046443939209
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.3335154056549072
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.03026890754699707
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0039904117584228516
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.9695584774017334
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.10858583450317383
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.31781601905822754
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.08371114730834961
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.009985923767089844
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07011890411376953
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.07224678993225098
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.06618165969848633
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.010171175003051758
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.0778195858001709
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.6318597793579102
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.06573367118835449
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.08641529083251953
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.07316446304321289
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.7248148918151855
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.06753778457641602
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.668087005615234
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.1725621223449707
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.11603188514709473
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0018672943115234375
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 1.1839604377746582
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.27747082710266113
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.008359432220458984
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.2056412696838379
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.09649252891540527
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0018701553344726562
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.444180965423584
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.1537632942199707
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.15010738372802734
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.0
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.1737442016601562
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.12531208992004395
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.044405460357666016
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.06189584732055664
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.12825393676757812
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.07022905349731445
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.03391075134277344
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.040022850036621094
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.07181811332702637
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.05064654350280762
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.009014129638671875
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.06683540344238281
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 1.0578560829162598
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.07542729377746582
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 0.102569580078125
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.05777573585510254
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.8458762168884277
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.05822491645812988
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.814390182495117
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.15131187438964844
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.30240845680236816
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.0005979537963867188
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8374025821685791
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.14600276947021484
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.38199710845947266
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.019948959350585938
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.03416585922241211
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.14810514450073242
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.04781675338745117
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.005597114562988281
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.0009989738464355469
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.07975053787231445
+    },
+    {
+        "name": "4",
+        "event": "keydown",
+        "elapsed_time": 1.1714611053466797
+    },
+    {
+        "name": "4",
+        "event": "keyup",
+        "elapsed_time": 0.15775060653686523
+    },
+    {
+        "name": "4",
+        "event": "keydown",
+        "elapsed_time": 0.1884009838104248
+    },
+    {
+        "name": "4",
+        "event": "keyup",
+        "elapsed_time": 0.0015909671783447266
+    },
+    {
+        "name": "backspace",
+        "event": "keydown",
+        "elapsed_time": 0.7984094619750977
+    },
+    {
+        "name": "backspace",
+        "event": "keyup",
+        "elapsed_time": 0.07999420166015625
+    },
+    {
+        "name": "backspace",
+        "event": "keydown",
+        "elapsed_time": 0.5903279781341553
+    },
+    {
+        "name": "backspace",
+        "event": "keyup",
+        "elapsed_time": 0.01163172721862793
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 3.816329002380371
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.2512972354888916
+    },
+    {
+        "name": "4",
+        "event": "keydown",
+        "elapsed_time": 0.4978153705596924
+    },
+    {
+        "name": "4",
+        "event": "keyup",
+        "elapsed_time": 0.011968851089477539
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.45494580268859863
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.08414554595947266
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.777303695678711
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.18789339065551758
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.1681506633758545
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.032518863677978516
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.9572443962097168
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1523275375366211
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.08955073356628418
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07427406311035156
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.14759039878845215
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.08507251739501953
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.019746780395507812
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06745743751525879
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.08975934982299805
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08618330955505371
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.028174161911010742
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.0777590274810791
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.8861441612243652
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.1344738006591797
+    },
+    {
+        "name": "5",
+        "event": "keydown",
+        "elapsed_time": 0.036199092864990234
+    },
+    {
+        "name": "5",
+        "event": "keyup",
+        "elapsed_time": 0.18963098526000977
+    },
+    {
+        "name": "5",
+        "event": "keydown",
+        "elapsed_time": 0.14832139015197754
+    },
+    {
+        "name": "5",
+        "event": "keyup",
+        "elapsed_time": 0.0019881725311279297
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.8478453159332275
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.08382916450500488
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.025418043136597
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.2469005584716797
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.14923763275146484
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.02276468276977539
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8532712459564209
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.11236953735351562
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.11430835723876953
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.06610560417175293
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.14167213439941406
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.08582711219787598
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.00820016860961914
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06788825988769531
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.0762474536895752
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.07403326034545898
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.03528881072998047
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.0804910659790039
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.39604759216308594
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.08635067939758301
+    },
+    {
+        "name": "6",
+        "event": "keydown",
+        "elapsed_time": 1.7052488327026367
+    },
+    {
+        "name": "6",
+        "event": "keyup",
+        "elapsed_time": 0.0669865608215332
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 2.629344940185547
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.003983736038208008
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.963913440704346
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.22041845321655273
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.13586115837097168
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.03817152976989746
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 1.2861111164093018
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.14977407455444336
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.05946969985961914
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07430338859558105
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.12384867668151855
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.11389708518981934
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.0009963512420654297
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.08735871315002441
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.026079416275024414
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.0791168212890625
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.01200413703918457
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.06905961036682129
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.8111958503723145
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.0765695571899414
+    },
+    {
+        "name": "7",
+        "event": "keydown",
+        "elapsed_time": 0.3543844223022461
+    },
+    {
+        "name": "7",
+        "event": "keyup",
+        "elapsed_time": 0.04716086387634277
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 1.2643051147460938
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.07656478881835938
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 8.055465936660767
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.5017993450164795
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.03222846984863281
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.03222489356994629
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.03280234336853027
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.03435349464416504
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.032549142837524414
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.03309798240661621
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 0.03285336494445801
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.014302253723144531
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.13372349739074707
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.0009875297546386719
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.9925146102905273
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1365797519683838
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.13820242881774902
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.027921199798583984
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.13124465942382812
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.08856415748596191
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.009998798370361328
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.07587504386901855
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.08248257637023926
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.07522416114807129
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.022502422332763672
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.07326412200927734
+    },
+    {
+        "name": "8",
+        "event": "keydown",
+        "elapsed_time": 1.0643560886383057
+    },
+    {
+        "name": "8",
+        "event": "keyup",
+        "elapsed_time": 0.07444524765014648
+    },
+    {
+        "name": "backspace",
+        "event": "keydown",
+        "elapsed_time": 0.7652595043182373
+    },
+    {
+        "name": "backspace",
+        "event": "keyup",
+        "elapsed_time": 0.11083245277404785
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.10933804512023926
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.12265658378601074
+    },
+    {
+        "name": "8",
+        "event": "keydown",
+        "elapsed_time": 0.08393478393554688
+    },
+    {
+        "name": "8",
+        "event": "keyup",
+        "elapsed_time": 0.06366181373596191
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.9382002353668213
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.06399416923522949
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 7.510022878646851
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.18577170372009277
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.14149761199951172
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.018741607666015625
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8255407810211182
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1462247371673584
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.1023871898651123
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.0579531192779541
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.05563473701477051
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.05424308776855469
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.3402557373046875
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.08743906021118164
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.0199129581451416
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.05613589286804199
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.02851724624633789
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.09389972686767578
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.007620573043823242
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.07608675956726074
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.5100452899932861
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.0760965347290039
+    },
+    {
+        "name": "9",
+        "event": "keydown",
+        "elapsed_time": 0.17821812629699707
+    },
+    {
+        "name": "9",
+        "event": "keyup",
+        "elapsed_time": 0.07367444038391113
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.8281304836273193
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.02204108238220215
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.596117973327637
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.24582672119140625
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.19531607627868652
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.01657724380493164
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.8183512687683105
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.13565301895141602
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.08001923561096191
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.06588053703308105
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.12445211410522461
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.08593893051147461
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.007687091827392578
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.06814885139465332
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.03837466239929199
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08541107177734375
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.01968526840209961
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.06665825843811035
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 1.1392667293548584
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.06602048873901367
+    },
+    {
+        "name": "0",
+        "event": "keydown",
+        "elapsed_time": 0.32880067825317383
+    },
+    {
+        "name": "0",
+        "event": "keyup",
+        "elapsed_time": 0.06596040725708008
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.5920939445495605
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.058915138244628906
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 6.869072914123535
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.4235682487487793
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.13225364685058594
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.025745391845703125
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.9403436183929443
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1042170524597168
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.09299230575561523
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.07666492462158203
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.11344623565673828
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.10421538352966309
+    },
+    {
+        "name": "t",
+        "event": "keydown",
+        "elapsed_time": 0.03178882598876953
+    },
+    {
+        "name": "t",
+        "event": "keyup",
+        "elapsed_time": 0.05641818046569824
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.03988337516784668
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.08197307586669922
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.04792165756225586
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.0743112564086914
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 0.369321346282959
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.10062694549560547
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.06926441192626953
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.04073023796081543
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.7036869525909424
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.06798362731933594
+    },
+    {
+        "name": "ctrl",
+        "event": "keydown",
+        "elapsed_time": 9.696259021759033
+    },
+    {
+        "name": "e",
+        "event": "keydown",
+        "elapsed_time": 0.20623230934143066
+    },
+    {
+        "name": "e",
+        "event": "keyup",
+        "elapsed_time": 0.17165303230285645
+    },
+    {
+        "name": "ctrl",
+        "event": "keyup",
+        "elapsed_time": 0.0261838436126709
+    },
+    {
+        "name": "p",
+        "event": "keydown",
+        "elapsed_time": 0.7119863033294678
+    },
+    {
+        "name": "p",
+        "event": "keyup",
+        "elapsed_time": 0.1141810417175293
+    },
+    {
+        "name": "u",
+        "event": "keydown",
+        "elapsed_time": 0.13387513160705566
+    },
+    {
+        "name": "u",
+        "event": "keyup",
+        "elapsed_time": 0.08574485778808594
+    },
+    {
+        "name": "n",
+        "event": "keydown",
+        "elapsed_time": 0.10041975975036621
+    },
+    {
+        "name": "n",
+        "event": "keyup",
+        "elapsed_time": 0.1896827220916748
+    },
+    {
+        "name": "o",
+        "event": "keydown",
+        "elapsed_time": 0.06550240516662598
+    },
+    {
+        "name": "o",
+        "event": "keyup",
+        "elapsed_time": 0.13226079940795898
+    },
+    {
+        "name": "s",
+        "event": "keydown",
+        "elapsed_time": 0.0009911060333251953
+    },
+    {
+        "name": "s",
+        "event": "keyup",
+        "elapsed_time": 0.022765159606933594
+    },
+    {
+        "name": "3",
+        "event": "keydown",
+        "elapsed_time": 1.8088674545288086
+    },
+    {
+        "name": "3",
+        "event": "keyup",
+        "elapsed_time": 0.0677175521850586
+    },
+    {
+        "name": "1",
+        "event": "keydown",
+        "elapsed_time": 0.05959200859069824
+    },
+    {
+        "name": "1",
+        "event": "keyup",
+        "elapsed_time": 0.0818490982055664
+    },
+    {
+        "name": "backspace",
+        "event": "keydown",
+        "elapsed_time": 1.8205592632293701
+    },
+    {
+        "name": "backspace",
+        "event": "keyup",
+        "elapsed_time": 0.1262664794921875
+    },
+    {
+        "name": "2",
+        "event": "keydown",
+        "elapsed_time": 0.0002510547637939453
+    },
+    {
+        "name": "2",
+        "event": "keyup",
+        "elapsed_time": 0.17964529991149902
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.22696280479431152
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.1584780216217041
+    },
+    {
+        "name": "enter",
+        "event": "keydown",
+        "elapsed_time": 0.02602672576904297
+    },
+    {
+        "name": "enter",
+        "event": "keyup",
+        "elapsed_time": 0.0020029544830322266
+    },
+    {
+        "name": "esc",
+        "event": "keydown",
+        "elapsed_time": 9.99027967453003
+    }
+]
