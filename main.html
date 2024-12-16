@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles/Styles.css" rel="stylesheet">
+    <title>AppMacrosRewards</title>
+</head>
+<body>
+    <div class="contenedor">
+        <div class="navBar">
+            <nav class="navbar">
+                <ul>
+                    <li><a href="inicio.html">Inicio</a></li>
+                    <li><a href="Macros.html">Macros</a></li>
+                    <li><a href="">Proximamente</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="Content">
+          <div class="MainPage">    
+            <h1 class="Title">Pantalla Principal Macro</h1>
+            <h2 class="Descp">Aqui solo se muestra el boton para iniciar la accion</h2>
+            <button onclick="activarMacro()">Prueba Script</button>
+        </div>
+          <div class="footer"></div>
+        </div>
+      </div>
+
+    <script>
+        async function activarMacro() {
+            try {
+                const response = await fetch('https://cicada-desired-fawn.ngrok-free.app/macro', {
+                    method: 'POST'
+                });
+                if (response.ok) {
+                    alert("La macro se ejecutó correctamente.");
+                } else {
+                    alert("Hubo un error al ejecutar la macro.");
+                }
+            } catch (error) {
+                alert("Todo bien je (o no?)");
+            }
+        }
+    </script>
+</body>
+</html>
